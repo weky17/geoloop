@@ -1,0 +1,117 @@
+geo({
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Bergsgatan Circle K",
+		"location":"test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2948968,
+          62.387146
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Skolhusallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2993245,
+          62.389056
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Köpmangatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3083424 ,
+          62.38861
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Storgatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.294769,
+          62.3919559
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Universitetsallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2894867,
+          62.394618
+        ]
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Parkgatan/Bergsgatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3108438,
+          62.385353
+        ]
+      }
+    },    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Landsvägsallen (Casino)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3147079 ,
+          62.390163
+        ]
+      }
+    }
+  ]
+});
