@@ -8,6 +8,7 @@ geo({
         "marker-size": "medium",
         "marker-symbol": "",
         "Name": "Bergsgatan Circle K",
+		"CLIMDIV": 1,
 		"location":"test"
       },
       "geometry": {
@@ -24,7 +25,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Skolhusallen"
+        "Name": "Skolhusallen",
+		"CLIMDIV": 2
       },
       "geometry": {
         "type": "Point",
@@ -40,7 +42,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Köpmangatan"
+        "Name": "Köpmangatan",
+		"CLIMDIV": 3
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +59,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Storgatan"
+        "Name": "Storgatan",
+		"CLIMDIV": 4
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +76,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Universitetsallen"
+        "Name": "Universitetsallen",
+		"CLIMDIV": 5
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +93,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Parkgatan/Bergsgatan"
+        "Name": "Parkgatan/Bergsgatan",
+		"CLIMDIV": 6
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +109,8 @@ geo({
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Landsvägsallen (Casino)"
+        "Name": "Landsvägsallen (Casino)",
+		"CLIMDIV": 7
       },
       "geometry": {
         "type": "Point",
